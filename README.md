@@ -40,7 +40,10 @@ GAN 對抗式生成網路
 IOT security
 區塊練安全(blockchain security)
 ```
-
+```
+ CartoonGAN
+ https://leemeng.tw/generate-anime-using-cartoongan-and-tensorflow2.html
+```
 #
 ```
 https://www.tensorflow.org/
